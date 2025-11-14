@@ -36,7 +36,7 @@ A modern, responsive weather application built with React and TypeScript, featur
 1. **Clone the repository**
    ```bash
    git clone <YOUR_GIT_URL>
-   cd aurora-sky-ai-34854
+   cd ClimaSense-ai-34562
    ```
 
 2. **Install dependencies**
@@ -105,7 +105,7 @@ console.log(result);
 ### Troubleshooting
 
 **API Key Not Working?**
-- Verify your API key is correct in `.env` file or Settings
+- Verify your API key is correct in the `.env` file or Settings
 - Restart the development server after changing `.env`
 - Check browser console for error messages
 - Ensure your API key is active on OpenWeatherMap
@@ -124,7 +124,7 @@ console.log(result);
 - **Check Forecasts**: Browse detailed weather predictions
 - **Monitor Air Quality**: View AQI levels and health recommendations
 - **AI Insights**: Access intelligent weather analysis and suggestions
-- **Customize Settings**: Adjust temperature units, themes, and preferences
+- **Customise Settings**: Adjust temperature units, themes, and preferences
 
 ## Project Structure
 
