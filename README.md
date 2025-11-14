@@ -2,6 +2,22 @@
 
 A modern, responsive weather application built with React and TypeScript, featuring AI-powered insights, real-time forecasts, air quality monitoring, and an intuitive user interface.
 
+## 🖼 UI Preview
+
+> Screenshots from the live interface.
+
+<img src="./screenshots/ClimaSense.jpeg" width="900"/>
+
+<img src="./screenshots/ClimaSenseAlertpage.jpeg" width="900"/>
+
+<img src="./screenshots/ClimaSenseAQI.jpeg" width="900"/>
+
+<img src="./screenshots/ClimaSenseAssistant.jpeg" width="900"/>
+
+<img src="./screenshots/ClimaSenseWeather.jpeg" width="900"/>
+
+---
+
 ## Features
 
 - **Real-time Weather Data**: Get current weather conditions for any location
