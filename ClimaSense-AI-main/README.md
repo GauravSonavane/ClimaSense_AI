@@ -1,4 +1,4 @@
-# Aurora Sky AI - Weather Application
+# ClimaSense AI - Weather Application
 
 A modern, responsive weather application built with React and TypeScript, featuring AI-powered insights, real-time forecasts, air quality monitoring, and an intuitive user interface.
 
